@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "C:\Users\leone\Repositorios-Locais\Jet\navdrawer\6-Oracle-JET-Hybrid-App\PUBLICAR_APP_1/jetobe.jks",
+      "storePassword": "MyKeystorePassword",
+      "alias": "myAndroidKey",
+      "password" : "MyKeyPassword",
+      "keystoreType": ""
+    }
+  }
+}
